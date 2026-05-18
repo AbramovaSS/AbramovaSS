@@ -9,9 +9,9 @@
 ![TestOps](https://img.shields.io/badge/TestOps-Integration-blueviolet?style=for-the-badge)
 
 ## 📚 Мои проекты
-- [📚 BookClub API Tests](https://github.com/AbramovaSS/Homework_REST_API_WITH_UI_5) — Полный цикл CRUD-автотестов с Allure и TestOps
-- [🧪 Alfa Bank UI Tests](https://github.com/AbramovaSS/Ready_project_for_Alfa_Bank) — UI-автотесты для сайта вакансий Альфа Банка
-- [🔧 Allure Custom Templates](https://github.com/AbramovaSS/Mobile_autotests_for_Wikipedia) — Автоматизация МП Wikipedia
+- [BookClub API Tests](https://github.com/AbramovaSS/Homework_REST_API_WITH_UI_5) — Полный цикл CRUD-автотестов с Allure и TestOps
+- [Alfa Bank UI Tests](https://github.com/AbramovaSS/Ready_project_for_Alfa_Bank) — UI-автотесты для сайта вакансий Альфа Банка
+- [Wikipedia Mobile tests](https://github.com/AbramovaSS/Mobile_autotests_for_Wikipedia) — Автоматизация МП Wikipedia
 
 ## 📬 Связаться со мной
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:preshporok@yandex.ru)

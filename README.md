@@ -14,8 +14,5 @@
 - [🧪 Alfa Bank UI Tests](https://github.com/AbramovaSS/Ready_project_for_Alfa_Bank) — UI-автотесты для сайта вакансий Альфа Банка
 - [🔧 Allure Custom Templates](https://github.com/AbramovaSS/Mobile_autotests_for_Wikipedia) — Автоматизация МП Wikipedia
 
-## 📈 Статистика
-![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ivan-petrov&layout=compact&theme=radical&hide_border=true)
-
 ## 📬 Связаться со мной
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:preshporok@yandex.ru)

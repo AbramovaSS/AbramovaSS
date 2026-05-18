@@ -1,8 +1,6 @@
 # AbramovaSS.github.io
 # 👋 Привет, я Светлана Абрамова — начинающий QA Automation Engineer
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ivan-petrov&show_icons=true&theme=radical&hide_border=true)
-
 ## 🛠 Технологии
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![REST Assured](https://img.shields.io/badge/REST%20Assured-5.3.0-blue?style=for-the-badge)

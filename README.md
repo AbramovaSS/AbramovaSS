@@ -1,4 +1,3 @@
-# AbramovaSS.github.io
 # 👋 Привет, я Светлана Абрамова — начинающий QA Automation Engineer
 
 ## 🛠 Технологии

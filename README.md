@@ -10,7 +10,7 @@
 Charles • DevTools • Postman • Swagger  • SQL (Basic)
 
 **Automation QA (In Progress):**
-[Java] • Selenide  • JUnit 5  • Git & GitHub
+Java • Selenide  • JUnit 5  • Git & GitHub
 
 ---
 

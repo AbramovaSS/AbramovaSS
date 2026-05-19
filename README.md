@@ -21,6 +21,6 @@ Charles • DevTools • Postman • Swagger  • SQL (Basic)
 ---
 
 ### 📫 Как со мной связаться
-* 📧 Email: [preshporok@yandex.ru]
-* 📱 Telegram: [@preshporok]
+* 📧 Email: preshporok@yandex.ru
+* 📱 Telegram: @preshporok
 

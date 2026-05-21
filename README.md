@@ -17,7 +17,7 @@ Java • Selenide  • JUnit 5  • Git & GitHub
 ## 📚 Мои проекты
 - [BookClub API Tests](https://github.com/AbramovaSS/Homework_REST_API_WITH_UI_5) — UI- и API-тесты для книжного клуба
 - [Alfa Bank UI Tests](https://github.com/AbramovaSS/Ready_project_for_Alfa_Bank) — UI-автотесты для сайта вакансий Альфа Банка
-- [Wikipedia Mobile tests](https://github.com/AbramovaSS/Mobile_autotests_for_Wikipedia) — Автоматизация МП Wikipedia
+- [Wikipedia Mobile tests](https://github.com/AbramovaSS/Mobile_tests_BS) — Автоматизация МП Wikipedia
 ---
 
 ### 📫 Как со мной связаться

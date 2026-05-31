@@ -9,7 +9,7 @@
 **Manual QA:**
 Charles • DevTools • Postman • Swagger
 
-**Automation QA (In Progress):**
+**Automation QA:**
 Java • Selenide  • Rest Assured • JUnit 5 • Allure / Allure TestOps  • Jenkins • Appium • Git & GitHub
 
 ---

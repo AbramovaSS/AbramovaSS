@@ -1,6 +1,6 @@
 # Привет! Я Светлана QA Engineer 👋
 
-Специализируюсь на ручном тестировании мобильных приложений (**iOS / Android**). Имею крепкую базу в тестировании клиент-серверной архитектуры и развиваюсь в автоматизации тестирования на **Java**.
+Специализируюсь на ручном тестировании веб- и мобильных приложений (**iOS / Android**). Имею крепкую базу в тестировании клиент-серверной архитектуры и развиваюсь в автоматизации тестирования на **Java**.
 
 ---
 
@@ -10,7 +10,7 @@
 Charles • DevTools • Postman • Swagger
 
 **Automation QA:**
-Java • Selenide • Rest Assured • JUnit 5 • Allure / Allure TestOps • Jenkins • Appium • Git & GitHub
+Java • Selenide • Rest Assured • JUnit 5 • Allure / Allure TestOps • Gradle • Git & GitHub
 
 ---
 
